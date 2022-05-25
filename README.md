@@ -1,2 +1,2 @@
-# MercaditosPachuca2
+# MercaditosPachuca
 Es un prototipo...
